@@ -2,7 +2,7 @@
 
 This repository contains basic SQL queries and examples for practice and demonstration purposes. It is created as part of my hands-on learning in SQL and to showcase my understanding of basic database operations.
 
-## 📋 Topics Covered
+## Topics Covered
 
 - Creating tables
 - Inserting records
@@ -12,18 +12,22 @@ This repository contains basic SQL queries and examples for practice and demonst
 - Updating existing records
 - Deleting records
 
-## 📁 File
+## File
 
 - `basic_queries.sql` – Contains sample SQL queries related to an `Employees` table.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - SQL (standard ANSI SQL)
 - Queries can be run in MySQL, PostgreSQL, or any standard SQL environment.
+- 
+## How to Use
+Execute the `basic_queries.sql` file in any SQL environment (MySQL, PostgreSQL, etc.).
 
-## 🙋‍♂️ About Me
+## About Me
+Hi, I'm Gaurav Thakur, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. I enjoy building practical solutions that combine intelligent systems with real-world applications.
 
-I am Gaurav Thakur, a B.Tech CSE (AIML) student with a keen interest in data handling and backend technologies. This project is part of my hands-on experience with SQL and is submitted for Cognizant profile validation.
+
 
 
 
