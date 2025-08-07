@@ -20,7 +20,7 @@ This repository contains basic SQL queries and examples for practice and demonst
 
 - SQL (standard ANSI SQL)
 - Queries can be run in MySQL, PostgreSQL, or any standard SQL environment.
-- 
+  
 ## How to Use
 Execute the `basic_queries.sql` file in any SQL environment (MySQL, PostgreSQL, etc.).
 
